@@ -1,4 +1,4 @@
-# Android Project 1 - *Simple Counter*
+# Simple Counter
 
 **Peilin Chen**
 
