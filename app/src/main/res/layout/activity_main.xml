@@ -20,9 +20,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Add 1"
+        android:layout_width="152dp"
+        android:layout_height="145dp"
+
+        android:background="@drawable/cat_paw"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -33,11 +34,11 @@
         android:id="@+id/upgradeBtn"
         android:layout_marginTop="20dp"
         android:visibility="invisible"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:text="Upgrade to Add 2"
         android:textSize="40sp"
-        android:background="@drawable/cat_paw"
+
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
