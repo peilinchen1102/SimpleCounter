@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                         textView.text = counter.toString()
                     }
 
-                    // Hide upgrade button again
+                    // Hide upgrade button
                     upgradeButton.visibility = View.INVISIBLE
 
                 }
